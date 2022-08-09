@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: radial-gradient(#42daf5, #2675c9);
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    line-height: 1.75;
+    color: #0e2a47;
+}
+ul {
+    list-style: none;
+    list-style-type: square;
+    width: 70%;
+    margin: 0 auto;
+}
+li {
+    text-align: left;
+}
